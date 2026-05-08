@@ -1008,10 +1008,10 @@ export default function ModernPortfolio() {
                     <Button
                       variant="outline"
                       className="w-full justify-start hover:border-[var(--accent-color)]/40 hover:text-[var(--accent-color)] transition-all duration-300"
-                      onClick={() => (window.location.href = "mailto:smHtet182@gmail.com")}
+                      onClick={() => (window.location.href = "mailto:smhtet182@gmail.com")}
                     >
                       <Mail className="w-4 h-4 mr-2" />
-                      <span className="text-sm">smHtet182@gmail.com</span>
+                      <span className="text-sm">smhtet182@gmail.com</span>
                     </Button>
                     <Button
                       variant="outline"
